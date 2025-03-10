@@ -1,5 +1,6 @@
 /.venv
 /.~lock.Dicionario_PNAD_COVID_052020_20220621.xls#
 /__pycache__
-/dados-mensais
-/resultados
+/dados-tratados
+/dados-originais
+/.vscode
